@@ -1,2 +1,5 @@
 # pingo
-Simple, Fast ping sweep tool
+Simple, fast ping sweep tool.
+
+
+![Test](test.png)
